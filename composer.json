@@ -1,0 +1,12 @@
+{
+    "name": "dev2/calculator",
+    "description": "first package",
+    "authors": [
+        {
+            "name": "Spondon IT",
+            "email": "spn5@spondonit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
